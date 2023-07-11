@@ -157,12 +157,28 @@ ul{
  }
 
  .buisness {
-    padding: 500px 0px 0px 0px;
     display: flex;
     justify-content: space-around;
-    width: 1700px;
-    height: 500px;
-    align-items: center;
+    width: 1922px;
+    height: 620px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
  }
+
+ .div5 {
+    padding: 230px 500px 3400px 420px;
+ }
+
+.h3 {
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.p6{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+}
