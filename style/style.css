@@ -222,6 +222,10 @@ h2 {
     font-size: 48px;
 }
 
+span {
+    color: white;
+}
+
 .p7 {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
