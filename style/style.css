@@ -158,18 +158,18 @@ ul{
 
  .buisness {
     display: flex;
-    justify-content: space-around;
-    width: 1922px;
+    justify-content: space-between;
+    align-items: center;
+    background-repeat: no-repeat;
+    gap: 25%;
+    width: 100%;
     height: 620px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
  }
 
- .div5 {
-    padding: 230px 500px 3400px 420px;
- }
-
 .h3 {
+    padding-left: 190px;
     color: #272727;
     font-size: 40px;
     font-style: normal;
@@ -177,12 +177,65 @@ ul{
 }
 
 .p6{
+    padding-left: 150px;
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
     font-style: normal;
 }
 
-.div6 {
-    padding: 100px 420px 100px 0px;
+.btnn-shop {
+    margin-left: 400px;
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: center;
+    gap: 10px;
+}
+
+.container7 {
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+    width: 500px;
+    padding-left: 190px;
+}
+
+.imgs7 {
+    width:250px;
+}
+
+section {
+    width: 1600px;
+    height: 449px;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+}
+
+h2 {
+    text-align: center;
+    color: #E55473;
+    font-size: 48px;
+}
+
+.p7 {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+p{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
